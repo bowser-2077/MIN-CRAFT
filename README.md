@@ -60,6 +60,12 @@ Launch your game and play on the server!
 
 Contributions are always welcome! Make sure to dm me on discord : bowser_2077
 
+## Based On
+
+The script is based on this video:
+
+Video:[Click Me](https://www.youtube.com/watch?v=SgVvVelwKIk)
+
 
 
 ![Logo](https://avatars.githubusercontent.com/u/164537694?s=400&u=b3bc2c47db49a0532a54b55dd19c5582134df7ea&v=4)
