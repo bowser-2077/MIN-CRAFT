@@ -10,6 +10,10 @@ How to setup:
 
 ## Installation
 
+```bash
+pip install speechrecognition mcrcon pyaudio
+```
+
 server.propeties >
 
 ```bash
