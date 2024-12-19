@@ -8,6 +8,14 @@ How to setup:
 - Follow the installation section
 - Follow the script install section
 
+##Fast Install (Experimented only)
+
+[![PyPI version](https://badge.fury.io/py/Min-Craft.svg)](https://pypi.org/project/Min-Craft/)
+
+```bash
+pip install Min-Craft
+```
+
 ## Installation
 
 ```bash
