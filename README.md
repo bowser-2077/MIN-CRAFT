@@ -49,6 +49,18 @@ select your language
 ```
 Launch your game and play on the server!
 
+## Multiplayer Support
+# Note : Multiplayer not fully supported.
+
+How to play script on multiplayer :
+
+- Install playit.gg
+- Login to website
+- Configure the app
+- Launch the app and copy paste the ip (Check Screenshot)
+
+![ScreenShot](https://i.ibb.co/7znXrZZ/Capture.png)  
+
 ## Roadmap
 
 - Add an custom banned letter
@@ -59,7 +71,7 @@ Launch your game and play on the server!
 
 The script is based on this video:
 
-Here the video link to the original concept! `[Watch The Video On YouTube](https://www.youtube.com/watch?v=SgVvVelwKIk)
+Here the video link to the original concept! [Watch The Video On YouTube](https://www.youtube.com/watch?v=SgVvVelwKIk)
 
 ## Contributing
 
