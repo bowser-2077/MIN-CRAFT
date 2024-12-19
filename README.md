@@ -87,3 +87,11 @@ Contributions are always welcome! Make sure to dm me on discord : bowser_2077
 
 ![Logo](https://avatars.githubusercontent.com/u/164537694?s=400&u=b3bc2c47db49a0532a54b55dd19c5582134df7ea&v=4)
 
+## Idk what to add here
+
+[![PyPI version](https://badge.fury.io/py/Min-Craft.svg)](https://pypi.org/project/Min-Craft/)
+[![Build Status](https://travis-ci.org/yourusername/yourrepo.svg?branch=main)](https://travis-ci.org/yourusername/yourrepo)
+[![Codecov](https://codecov.io/gh/yourusername/yourrepo/branch/main/graph/badge.svg)](https://codecov.io/gh/yourusername/yourrepo)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/Min-Craft.svg)](https://pypi.org/project/Min-Craft/)
+
