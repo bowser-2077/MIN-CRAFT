@@ -58,7 +58,19 @@ select your language
 Launch your game and play on the server!
 
 ## Multiplayer Support
-# Note : Multiplayer not fully supported.
+# [NEW METHOD] Using beta version of MinCraft
+
+Here the beta version link :
+[Click Me!](https://github.com/bowser-2077/MIN-CRAFT/releases/tag/Beta)
+
+To install it, just follow this steps:
+
+- Install playit.gg
+- Login to website
+- Configure the app
+- Launch the app and copy paste the ip (Check Screenshot)
+
+# [OLD METHOD] Note : Multiplayer not fully supported.
 
 How to play script on multiplayer :
 
